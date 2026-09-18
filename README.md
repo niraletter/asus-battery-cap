@@ -1,4 +1,4 @@
-# asus-battery-cap
+# Asus Battery Cap
 
 Charge limit picker for the Omarchy power panel.
 
