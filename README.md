@@ -2,7 +2,7 @@
 
 Charge limit picker for the Omarchy power panel.
 
-![preview](preview.png)
+<img src="preview.png" width="420" alt="preview">
 
 ## What it does
 
