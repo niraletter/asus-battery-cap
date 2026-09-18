@@ -2,6 +2,8 @@
 
 Charge limit picker for the Omarchy power panel.
 
+![preview](preview.png)
+
 ## What it does
 
 Adds a CHARGE LIMIT section to the Omarchy power panel with 80 percent and Full (100 percent) buttons. It matches the built in power profile picker style. Uses asusctl, so picks need no password and asusd persists them.
