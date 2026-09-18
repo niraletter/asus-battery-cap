@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "asus.batterycap",
+  "name": "ASUS Battery Cap",
+  "version": "1.0.0",
+  "author": "niraletter",
+  "description": "Battery charge limit picker",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "ASUS Battery Cap",
+    "description": "Battery charge limit picker",
+    "category": "System",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.power"
+  }
+}
